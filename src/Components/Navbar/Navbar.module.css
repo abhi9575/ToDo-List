@@ -1,0 +1,29 @@
+.navItems>h1{
+  text-align: center;
+  margin-top: 25px ;
+  margin-bottom: 45px;
+  font-size: 45px;
+}
+.navFlex{
+  display: flex;
+  gap: 10px;
+  justify-content: center;
+}
+.navFlex>label>input{
+  padding: 6px;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: black;
+  font-size: 19px;
+}
+
+.navFlex>button{
+  padding:5px;
+  border-radius: 5px;
+  border: 1px solid black;
+  color: black;
+  font-weight: 700;
+  font-size: 19px;
+  background-color: rgb(206, 206, 206);
+
+}

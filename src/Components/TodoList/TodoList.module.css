@@ -1,0 +1,8 @@
+.todoListContainer{
+  border: 5px solid aliceblue;
+  border-radius: 10px;
+  padding: 50px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}

@@ -1,0 +1,18 @@
+
+
+.listItems{
+  width: 35%;
+  margin: auto;
+  background-color: pink;
+  display: flex;
+  gap: 20px;
+  justify-content:baseline;
+  align-items: center;
+  border-radius: 8px;
+  padding: 10px;
+  padding-left: 30px;
+  border: 1px solid black;
+  touch-action: none;
+  background-color: rgb(88, 0, 16);
+  
+}
